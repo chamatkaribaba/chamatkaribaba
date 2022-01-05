@@ -1,3 +1,8 @@
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="left" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+
+
+
 ### Hi there, I'm Siddarth aka twitch go check out my  [website]  👋 
 
 
@@ -8,8 +13,11 @@
 - 👯 I’m looking to collaborate with other s cus why not
 - 🥅 making all my codes opensource
 - ⚡ Fun fact: I love to play football and badminton
-
  - 🤖DiscordBot: make sure to add it [DiscordBot]
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamatkaribaba" alt="chamatkaribaba" /></a> </p>
 
 ### Connect with me:
 
@@ -42,7 +50,12 @@
 <details>
   <summary>⚡ GitHub Stats</summary>
 
-  <img align="left" alt="Siddarth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chamatkaribaba&show_icons=true&hide_border=true" />
+  <img align="left" alt="Siddarth's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chamatkaribaba&theme=tokyonight&show_icons=true&show_icons=true&hide_border=true" />
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamatkaribaba&show_icons=true&locale=en&layout=compact" alt="chamatkaribaba" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamatkaribaba&" alt="chamatkaribaba" /></p>
 
 </details>
 
