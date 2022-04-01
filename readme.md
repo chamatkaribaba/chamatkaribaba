@@ -8,9 +8,9 @@
 
 ## I'm a 14yearold who likes to code
 
-- 🔭 Im working on a new bot
-- 🌱 I’m currently learning c++
-- 👯 I’m looking to collaborate with other s cus why not
+- 🔭 got addicted to python 
+- 🌱 I’m currently learning react
+- 👯 lonewolf
 - 🥅 making all my codes opensource
 - ⚡ Fun fact: I love to play football and badminton
  - 🤖DiscordBot: make sure to add it [DiscordBot]
